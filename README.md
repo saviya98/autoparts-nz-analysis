@@ -45,3 +45,25 @@ list rather than back into MySQL directly, since that would require an on-premis
 gateway outside this project's scope. The Power Apps form is built and the flow is fully
 tested independently; connecting them live hit a premium-connector licensing limit on a
 free trial tier, not a technical gap.
+
+## Screenshots
+
+### Power BI — Sales Performance
+
+![Sales Performance](screenshots/sales-performance.png)
+
+### Power BI — Inventory & Reorder
+
+![Inventory](screenshots/inventory.png)
+
+### Power BI — Data Quality
+
+![Data Quality](screenshots/data-quality.png)
+
+### Power Automate — Stock Reorder Approval Flow
+
+![Power Automate Flow](screenshots/power-automate-flow.png)
+
+### Power Apps — Reorder Request Form
+
+![Power Apps Form](screenshots/power-apps-form.png)
