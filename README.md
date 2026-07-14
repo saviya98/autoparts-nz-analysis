@@ -50,20 +50,20 @@ free trial tier, not a technical gap.
 
 ### Power BI — Sales Performance
 
-![Sales Performance](screenshots/sales-performance.png)
+![Sales Performance](Screenshots/sales-performance.png)
 
 ### Power BI — Inventory & Reorder
 
-![Inventory](screenshots/inventory.png)
+![Inventory](Screenshots/inventory.png)
 
 ### Power BI — Data Quality
 
-![Data Quality](screenshots/data-quality.png)
+![Data Quality](Screenshots/data-quality.png)
 
 ### Power Automate — Stock Reorder Approval Flow
 
-![Power Automate Flow](screenshots/power-automate-flow.png)
+![Power Automate Flow](Screenshots/power-automate-flow.png)
 
 ### Power Apps — Reorder Request Form
 
-![Power Apps Form](screenshots/power-apps-form.png)
+![Power Apps Form](Screenshots/power-apps-form.png)
